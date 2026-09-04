@@ -1,4 +1,5 @@
-splashscreen.png
+##splashscreen
+(splashscreen.png)[Splashscreen]!
 # 🛍️ ShopEase
 
 A modern Android shopping application built with Kotlin and Jetpack Compose.
