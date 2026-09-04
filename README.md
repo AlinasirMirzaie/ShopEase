@@ -1,4 +1,4 @@
-##splashscreen
+## splashscreen
 (splashscreen.png)[Splashscreen]!
 # 🛍️ ShopEase
 
