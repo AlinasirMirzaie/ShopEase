@@ -1,3 +1,4 @@
+splashscreen.png
 # 🛍️ ShopEase
 
 A modern Android shopping application built with Kotlin and Jetpack Compose.
