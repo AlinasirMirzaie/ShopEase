@@ -1,5 +1,6 @@
 ## Screenshots
-(screenshots/splash.png)[Splash]!
+<img width="572" height="1280" alt="splash" src="https://github.com/user-attachments/assets/03fccbc4-b998-4e86-9c46-1e007235be9b" />
+
 # 🛍️ ShopEase
 
 A modern Android shopping application built with Kotlin and Jetpack Compose.
