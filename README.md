@@ -1,20 +1,21 @@
 ## Screenshots
-<img width="572" height="1280" alt="splash" src="https://github.com/user-attachments/assets/03fccbc4-b998-4e86-9c46-1e007235be9b" />
 <p align="center">
   <img src="screenshots/splash.png" width="200">
   <img src="screenshots/login.png" width="200">
-  <img src="screenshots/register.png" width="200">
+  <img src="screenshots/registeration.png" width="200">
 </p>
 
 <p align="center">
   <img src="screenshots/home.png" width="200">
   <img src="screenshots/category.png" width="200">
-  <img src="screenshots/product.png" width="200">
+  <img src="screenshots/categorys.png" width="200">
 </p>
 
 <p align="center">
-  <img src="screenshots/cart.png" width="200">
+  <img src="screenshots/details.png" width="200">
   <img src="screenshots/profile.png" width="200">
+    <img src="screenshots/forgotpass.png" width="200">
+
 </p>
 
 # 🛍️ ShopEase
