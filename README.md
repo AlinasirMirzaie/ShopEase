@@ -2,7 +2,7 @@
 <p align="center">
   <img src="screenshots/splash.png" width="200">
   <img src="screenshots/login.png" width="200">
-  <img src="screenshots/registeration.png" width="200">
+  <img src="screenshots/regestration.png" width="200">
 </p>
 
 <p align="center">
